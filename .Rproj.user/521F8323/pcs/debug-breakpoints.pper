@@ -13,7 +13,7 @@
                 "needs_updated_steps" : false,
                 "package_name" : "mdlkrmessrcServer",
                 "path" : "~/app/zzy/krmessqlquery/krmessrc/mdlkrmessrcServer/R/krmesemp.R",
-                "state" : 1,
+                "state" : 2,
                 "type" : 0
             }
         ]
